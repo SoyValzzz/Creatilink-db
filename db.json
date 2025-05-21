@@ -13,6 +13,13 @@
       "password": "ana123",
       "role": "profile",
       "profileId": 2
+    },
+    {
+      "id": "3",
+      "email": "sylvee@example.com",
+      "password": "123",
+      "role": "profile",
+      "profileId": 3
     }
   ],
    "profiles": [
