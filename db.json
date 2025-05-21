@@ -50,6 +50,44 @@
         "facebook": "https://www.facebook.com/profile.php?id=61571518567287",
         "x": "https://x.com/sydney_sweeney"
       }
+    },
+     {
+      "id": "3",
+      "name": "Sylvia Frank (Sylvee)",
+      "location": "Florida, Estados Unidos",
+      "bio": "Soy Sylvia Frank, conocida en línea como Sylvee, una streamer y creadora de contenido apasionada por los videojuegos y la comunidad. Desde mis inicios en 2020, he estado construyendo un espacio acogedor en Twitch, donde comparto mi amor por juegos como Minecraft, Stardew Valley y Final Fantasy XIV Online.\\nComo VTuber, adopto la forma de una demonio lobo, representada con un avatar animado en 2D, lo cual me permite expresarme creativamente mientras interactúo con mi audiencia.\\nHe tenido el privilegio de colaborar con otros creadores como Sapnap y Captain Puffy, y participar en eventos como Twitch Rivals. Además, he trabajado en campañas con marcas como LEGO, combinando el entretenimiento con experiencias auténticas para mis seguidores.\\nMe apasiona crear una comunidad positiva, donde todos se sientan bienvenidos. Si compartes el amor por los videojuegos, el arte y un buen ambiente, estás invitado a unirte a mis transmisiones. ¡Nos vemos en directo!",
+      "image": "https://i.ibb.co/0VjFzR7/sylvee-profile.jpg",
+      "icon": "https://i.ibb.co/QQW07RQ/sylvee-icon.png",
+      "experience": [
+        "Streamer de videojuegos",
+        "VTuber (demonio lobo)",
+        "Colaboradora en Twitch Rivals",
+        "Embajadora de LEGO x Minecraft"
+      ],
+      "social": {
+        "instagram": "https://www.instagram.com/sylvee/",
+        "facebook": "https://www.facebook.com/sylveestreams",
+        "x": "https://x.com/sylveey"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Manuel Aguilar (soypan)",
+      "location": "Ciudad de México, México",
+      "bio": "¡Hola! Soy Soypan, streamer de Twitch y creador de contenido enfocado en juegos de estrategia, simulación y cozy games. Desde 2021 comencé mi aventura en Twitch con el objetivo de construir una comunidad divertida, relajada y con mucho pan (¡literal y figuradamente!).\n\nMis streams son conocidos por su ambiente chill, interacción constante con el chat y un enfoque muy cercano a la audiencia. Entre los juegos que más disfruto están Cities: Skylines, Animal Crossing, y The Sims. También realizo transmisiones especiales de construcción en Minecraft y colaboraciones con otros creadores latinos.\n\nAdemás del gaming, ocasionalmente realizo directos de \"charlando\" donde hablo sobre temas de bienestar mental, creatividad y vida digital. Soy defensor del contenido positivo y auténtico. Si buscas un lugar donde relajarte, reír y sentirte en casa, ¡mi canal es para ti!\n\n¡Nos vemos en vivo, panecito!",
+      "image": "https://instagram.flim33-1.fna.fbcdn.net/v/t51.29350-15/324695540_213838344441227_7595674578548555828_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.flim33-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QFMT9qpMlL-3nosF6eiYESRu9RWWEkJXL6xNRxZAmATxZvDl68PbMzxwVUcKgNbTas&_nc_ohc=MOgc4efUC_wQ7kNvwHaM6Xi&_nc_gid=Q5XUQlgLUIAjtxDk33JoxA&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MzAxMTYwMjYyMDU5NTM3ODE3Ng%3D%3D.3-ccb7-5&oh=00_AfKv4B4ODGI1NqrpTyrU3XZQTSmD8DF3ogLNrSGU0n1ZkQ&oe=6833157F&_nc_sid=22de04",
+      "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1714f39-3b66-4801-b3f2-a29b93c2cbff-profile_image-70x70.png",
+      "experience": [
+        "Streamer cozy en Twitch",
+        "Constructor creativo en Minecraft",
+        "Creador de contenido colaborativo",
+        "Host de charlas en vivo"
+      ],
+      "social": {
+        "instagram": "https://www.instagram.com/soypan.tv/",
+        "facebook": "https://www.facebook.com/soypantwitch",
+        "x": "https://x.com/soypan_tv"
+      }
     }
   ]
 }
