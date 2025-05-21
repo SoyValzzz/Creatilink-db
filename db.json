@@ -50,6 +50,25 @@
         "facebook": "https://www.facebook.com/profile.php?id=61571518567287",
         "x": "https://x.com/sydney_sweeney"
       }
+    },
+     {
+      "id": "3",
+      "name": "Sylvia Frank (Sylvee)",
+      "location": "Florida, Estados Unidos",
+      "bio": "Soy Sylvia Frank, conocida en línea como Sylvee, una streamer y creadora de contenido apasionada por los videojuegos y la comunidad. Desde mis inicios en 2020, he estado construyendo un espacio acogedor en Twitch, donde comparto mi amor por juegos como Minecraft, Stardew Valley y Final Fantasy XIV Online.\\nComo VTuber, adopto la forma de una demonio lobo, representada con un avatar animado en 2D, lo cual me permite expresarme creativamente mientras interactúo con mi audiencia.\\nHe tenido el privilegio de colaborar con otros creadores como Sapnap y Captain Puffy, y participar en eventos como Twitch Rivals. Además, he trabajado en campañas con marcas como LEGO, combinando el entretenimiento con experiencias auténticas para mis seguidores.\\nMe apasiona crear una comunidad positiva, donde todos se sientan bienvenidos. Si compartes el amor por los videojuegos, el arte y un buen ambiente, estás invitado a unirte a mis transmisiones. ¡Nos vemos en directo!",
+      "image": "https://i.ibb.co/0VjFzR7/sylvee-profile.jpg",
+      "icon": "https://i.ibb.co/QQW07RQ/sylvee-icon.png",
+      "experience": [
+        "Streamer de videojuegos",
+        "VTuber (demonio lobo)",
+        "Colaboradora en Twitch Rivals",
+        "Embajadora de LEGO x Minecraft"
+      ],
+      "social": {
+        "instagram": "https://www.instagram.com/sylvee/",
+        "facebook": "https://www.facebook.com/sylveestreams",
+        "x": "https://x.com/sylveey"
+      }
     }
   ]
 }
