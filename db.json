@@ -18,7 +18,7 @@
       "id": "3",
       "email": "sylvee@example.com",
       "password": "123",
-      "role": "profile",
+      "role": "cliente",
       "profileId": 3
     }
   ],
